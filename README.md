@@ -1,9 +1,15 @@
 # 🎃 Responsive Halloween Website
 
-- Responsive Halloween Website Design Using HTML CSS & JavaScript
-- With a dark and elegant interface.
-- Contains animations when scrolling.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+"Mỗi một bông hoa tuyết rơi xuống
+
+Mỗi một ngọn lửa bùng lên
+
+Mỗi một lời tâm tư gửi đến ai
+
+Đều là những tình cảm tốt đẹp dành cho bạn
+
+Chúc bạn ngày lễ Halloween vui vẻ!"
+
+- Happy Halloween-
 
 ![preview img](/preview.png)# Halloween
